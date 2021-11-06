@@ -1,4 +1,4 @@
-# Authors: Piotr Michałek s9333 & Kibort Jan s19916
+# Authors: Piotr Michałek s19333 & Kibort Jan s19916
 
 import matplotlib.pyplot as plt
 import numpy as np
