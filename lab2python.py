@@ -1,3 +1,5 @@
+# Authors: Piotr Michałek s19333 & Kibort Jan s19916
+
 import matplotlib.pyplot as plt
 import numpy as np
 import skfuzzy as fuzz
