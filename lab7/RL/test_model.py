@@ -1,3 +1,4 @@
+#authors: Piotr Michałek s19333 & Kibort Jan s19916
 import gym 
 import random
 import numpy as np
