@@ -1,3 +1,4 @@
+#authors: Piotr Michałek s19333 & Kibort Jan s19916
 # import required packages
 
 import gym 
